@@ -75,7 +75,7 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/KouZgmTB7t1EObhjePFrkx"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 * [`My Youtube Channel`](https://youtube.com/c/MONSTER007)
@@ -83,8 +83,3 @@ My Whatsapp Group👇
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`AKBAR`](https://github.com/akbarbotz/bot
-
-
-<p align="center">
- <audio autoplay="autoplay" controls="controls" src="https://e.top4top.io/m_1581vn1q91.mp3"></audio></p>
-<center><audio autoplay="autoplay" controls="controls" src="https://e.top4top.io/m_1581vn1q91.mp3"></audio></a></center>
