@@ -82,4 +82,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`AKBAR`](https://github.com/Master-akbar
+* [`AKBAR`](https://github.com/akbarbotz/bot
