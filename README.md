@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/5M5nDqy/706056af0d5b1a8ee37282b65d7a857f.gif" alt="HELMI" width="170" />
 
-## Helmi bot 
+## Helmi bot
 
 </div>
 
@@ -16,7 +16,7 @@
 
 
 ## 1st Repository was deleted
-Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️TERIMA KASIH!!
+Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
 
 ## Deploy
 
@@ -75,11 +75,12 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/KouZgmTB7t1EObhjePFrkx"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/c/MONSTER007)
+* [`My Youtube Channel`](https://youtu.be/BNgpIm8PrIk)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`HELMI`](https://github.com/Bapak017/bot-kucing-) 
+* [`AKBAR`](https://github.com/akbarbotz/bot
+
