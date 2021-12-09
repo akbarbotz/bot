@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/5M5nDqy/706056af0d5b1a8ee37282b65d7a857f.gif" alt="AKBAR" width="170" />
+<img src="https://i.ibb.co/5M5nDqy/706056af0d5b1a8ee37282b65d7a857f.gif" alt="HELMI" width="170" />
 
-## Akbar Bot
+## Helmi bot 
 
 </div>
 
@@ -11,12 +11,12 @@
   <a href="" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="MONSTER" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="-SEAGM-" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 
 ## 1st Repository was deleted
-Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
+Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️TERIMA KASIH!!
 
 ## Deploy
 
@@ -70,17 +70,16 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+919677331878"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+60175575245"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/KouZgmTB7t1EObhjePFrkx"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 * [`My Youtube Channel`](https://youtube.com/c/MONSTER007)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`AKBAR`](https://github.com/akbarbotz/bot
-
+* [`HELMI`](https://github.com/Bapak017/bot-kucing-) 
