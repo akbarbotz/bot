@@ -59,7 +59,7 @@ heroku/nodejs
 🌠 pkg install ffmpeg -y 
 🌠 pkg install wget
 🌠 pkg install imagemagick -y
-🌠 git clone https://github.com/akbarbotz/akbarbotz
+🌠 git clone https://github.com/akbarbotz/bot
 🌠 ls
 🌠 rm -rf session.json
 🌠 npm install
