@@ -73,7 +73,7 @@ My Personal Chat👇
  <a href="https://wa.me/+919677331878"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-My Whatsapp Group👇
+Bot Whatsapp Group👇
 <p align="center">
  <a href="https://chat.whatsapp.com/KouZgmTB7t1EObhjePFrkx"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
